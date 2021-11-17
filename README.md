@@ -30,7 +30,7 @@ The following additional features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Screen-Recording-2021-11-17-at-2](https://user-images.githubusercontent.com/80597347/142171806-fc38e96e-521c-43ba-a3f5-031aa288d47d.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
