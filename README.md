@@ -2,9 +2,8 @@
 
 SimpleToDo is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: Abhash Sainju
 
-Time spent: 12 hours spent in total
+Time spent: 4.5 hours spent in total
 
 ## User Stories
 
@@ -36,14 +35,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app:
+Challenges encountered while building the app:
 
 - Many import errors.
 - Many runtime errors.
 - Several dependency errors.
 - Template errors and xml errors.
-- Application crashed several times in the emulator 
-- 
+- Application crashed several times in the emulator.
 
 ## License
 
@@ -60,7 +58,3 @@ Describe any challenges encountered while building the app:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    
-    
-    
-    Unless required by applicable law or agreed to in writing, software
